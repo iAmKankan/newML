@@ -17,6 +17,4 @@
 |...|  3|	 ...|
 
 ### Varience, mean midean, mode [link](https://github.com/iAmKankan/Statistics/blob/main/measureofcentraltendency.md#constant-variance)
-### Correlation [link](https://github.com/iAmKankan/Statistics/blob/main/commonTerms.md)https://github.com/iAmKankan/Statistics/blob/main/commonTerms.md
-
-### 
+### Correlation [link](https://github.com/iAmKankan/Statistics/blob/main/commonTerms.md)
