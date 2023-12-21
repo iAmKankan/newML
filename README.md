@@ -19,3 +19,6 @@
 ### Varience, mean midean, mode [link](https://github.com/iAmKankan/Statistics/blob/main/measureofcentraltendency.md#constant-variance)
 
 ### Correlation [link](https://github.com/iAmKankan/Statistics/blob/main/commonTerms.md)
+
+### 21/12/2023
+* https://github.com/iAmKankan/Neural-Network/blob/main/error/README.md
